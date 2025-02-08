@@ -1,4 +1,4 @@
-# Digital-Image-Processing-CENG462-Project
+# Digital Image Processing (CENG462 Project)
 The project I did at the end of the 6th semester for CENG462 (Digital Image Processing) course.
 
 The primary objective was to analyze and implement different noise removal techniques for images affected by high-density salt and pepper noise.
